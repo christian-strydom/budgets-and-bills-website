@@ -45,6 +45,8 @@ $(document).ready(function () {
 
   //   Nice Select Initialization
   $("select").niceSelect();
+
+  window.location.replace('#download');
 });
 
 // Navbar Open Function on Mobile Menu
